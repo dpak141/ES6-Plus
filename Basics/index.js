@@ -124,4 +124,8 @@ function add(...nums) {
 
 add(2, 2, 3, 4, 5);
 
+export const data = [1, 2, 3];
 
+export function adds(a, b) {
+  return a + b;
+}
